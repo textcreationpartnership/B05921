@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some thoughts humbly offered to the consideration of the members of the Honourable House of Commons, concerning the credit of the nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05921</idno>
+            <idno type="STC">Wing S4628A</idno>
+            <idno type="STC">ESTC R233236</idno>
+            <idno type="EEBO-CITATION">52529009</idno>
+            <idno type="OCLC">ocm 52529009</idno>
+            <idno type="VID">179122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179122)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2777:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some thoughts humbly offered to the consideration of the members of the Honourable House of Commons, concerning the credit of the nation.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Concerning a method of financing the current war by a form of credit, so as not to unduly restrict trade.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  England --  History --  1688-1815 --  Early works to 1800.</term>
+               <term>War --  Economic aspects --  England --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Finance --  Early works to 1800.</term>
+               <term>Credit --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:179122:1" rendition="simple:additions"/>
+            <head>Some <hi>THOUGHTS</hi> humbly offered to the Conſideration of the Members of the Honourable <hi>Houſe</hi> of <hi>Commons,</hi> concerning the <hi>CREDIT</hi> of the Nation.</head>
+            <p>A Midſt the Thoughts of ſeveral Perſons, and ſome of this kind, I venture to advance Mine, with Submiſſion, in this Conjuncture, that, if poſſible, the Neceſſity of the Nation may be Anſwer'd by the Succeſs of this Seſſions; whereby they may leave the Nation eaſi<g ref="char:EOLhyphen"/>er then when they met; which, I would believe, is the deſire of moſt of the Members, if the way were clear, through the Experience they have had in their ſeveral Stations during the laſt Interval. The Parliament has been ſo happy to have the Neceſſities of the King and Nation hin<g ref="char:EOLhyphen"/>ted to them at their firſt Meeting, which doth no leſs ſhew the Know<g ref="char:EOLhyphen"/>ledge and Underſtanding the King had, then his Care of both.</p>
+            <p>The Neceſſities of the King's Supplies you have agreed to anſwer, and extraordinarily too; <hi>viz.</hi> the Raiſing them within the Year: And ſince the King was pleaſed to joyn that of the Nations with his own, 'tis ho<g ref="char:EOLhyphen"/>ped it may be anſwered as fully; <hi>viz.</hi> the CREDIT.</p>
+            <p>That the Trade of <hi>England</hi> did always require it, no Man of Thought but knows, even in Time of Peace; nor can any Man ſuppoſe, that in Time of War (when large Taxes muſt be paid, the diſappointments of long Voyages and loſſes by Sea) the Trade of <hi>England</hi> can be compleat and anſwered by the running Caſh. No, 'tis too great a diſproportion be<g ref="char:EOLhyphen"/>tween the Trade and Caſh, to be carried on without the help of Credit.</p>
+            <p>Not to ſuppoſe the leſſening of the Caſh, by the Recoining of the Money; yet the Extinction (as one may ſay) of Credit happening thereupon, for want of due Payments, is enough to leſſen the Trade and Commerce beyond compute, which, muſt by ſenſible Degrees, be felt by all; from the King to the meaneſt Trader or Subject.</p>
+            <p>This being really the Caſe and Credit the only thing to avoid the Ruine of the Trade of the Nation, 'tis humbly Propoſed, That you may not part without anſwering this Neceſſity, ſo timely recommended to you by the King and ſo much needed by the People. This Credit ought to be Sure, but Eſtabliſhed.</p>
+            <p>To be Sure, becauſe none ſhould be deceived: To be Eſtabliſhed, be<g ref="char:EOLhyphen"/>cauſe common Credit is failed; and though a real value be at bottom, the incredulity of all is ſuch, that it will make no ſatisfaction in Pay<g ref="char:EOLhyphen"/>ment.</p>
+            <p>For what Man, though worth 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Land, <hi>&amp;c.</hi> can Purchaſe Goods at the ſame Rate he could two Years ago on his own Note, or Mortgage for any Summ as at that Time; nay hardly now at any Rate; though equally able then, and now: This happens for want of a common Credit more then want of Caſh, for the Caſh we now have is able to circulate a Credit as before, eſpecially with the help of the Plate, <hi>&amp;c.</hi> to be Coined, but the Credit is wanting, and hardly any ſumm can ſup<g ref="char:EOLhyphen"/>ply the want, therefore need of Credit.</p>
+            <p>And ſeeing none but you have Power to Eſtabliſh it, ſo none ſo able
+<pb n="2" facs="tcp:179122:2"/>to ſecure it; neither can the Impoſition be thought hard, where <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Security is good.</p>
+            <p>You have readily Voted (for the Honour of Parliaments) and m<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſome progreſs, to make good all Parliamentary Funds; I conceive, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> likelier Security can be offered, then Your own, as a Parliament, to eſta<g ref="char:EOLhyphen"/>bliſh Credit on.</p>
+            <p>No doubt, but what is done and intended in thus reſolving to m<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> good all theſe Funds, is to raiſe their Credit, and make them uſeful; <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that alone will never anſwer the End, nor cure the general Loſs of Cre<g ref="char:EOLhyphen"/>dit; becauſe the moſt Neceſſitous will be leaſt helped, and the leſs n<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ful make the Advantage as Particulars; but a general Credit will ra<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſink, then augment by this means: For if the Parliament decline <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>king the preſent Funds a Credit, in whoſe Power it is to ſecure it, it <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> happen, that the People will think them Precarious, and then can n<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Advance but Decline and ſhare in common Credit; which is very h<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that a Parliamentary Credit ſhould fall below Private Mens, when <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reſolve to ſecure it, and have Power to value it. 'Tis therefore hoped <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Exigency, you will effect it, who cannot doubt of its Security with<g ref="char:EOLhyphen"/>out denying your own, nor be ignorant of the Neceſſity, if conſider y<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> own.</p>
+            <p>That it is practicable without grievance, if acted without fraud, I <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fully perſwaded, and without any new Charge to the Nation, accord to the Following Thoughts; which as they are rough without Comp<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, and not fully digeſted, may ſerve for a hint to be improved by more ingenious and ſedulous in theſe Affairs, particularly <hi>R. Murray</hi> who <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> painfully Thought and lately offered his Thoughts on ſomething like <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and no doubt, but ſeveral are ready to offer ſomething when you ſha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſolved to eſtabliſh a Credit on your own Security.</p>
+            <div type="part">
+               <head>The Propoſal or Practice in General, leaving the Particulars till 'tis reſ<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to be done. Since it would be tedious to inſert, and trouble to adjuſt, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> perhaps in the end be thought not fit for Practice.</head>
+               <p>THat an Office be eſtabliſhed by Parliament (which may be <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theirs) Commiſſioners appointed by them, of their own Mem<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> or others as they ſhall think fit. This Office to be under the Cogniz<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of the Commiſſioners for publick Accounts, who ſhould Report it <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Seſſions. The Commiſſioners to be choſen a-new every Seſſions thoſe for the publick Accounts are.</p>
+               <p>Theſe Commiſſioners, and all under Officers, may be rewarded by following Method, without freſh Charge to the People.</p>
+               <p>That all Tallies ſtruck upon appropriated Funds, may (if the Pro<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>etor pleaſe) be brought into the Office and receive Bills of Credit for <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Principle, in Summs ſuiting their Occaſion; provided none leſs then part or all of the Intereſt being allowed for the Charge of the Office. if only part to the Office, then the other part to be continued on the <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ning Bills, theſe Bills and Intereſt (if any) to be made a legal tend all Payments, and to be paid off Annually, as the Tallies ſhould have <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Courſe, or a part of every one, if it be thought fit; this in ſo many <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as the Tallies now would be paid off in, will reduce all theſe Bills a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and the Nation have the Advantage of the Money all the while; which have conſiderable Effects upon all: For by this the ſeveral Proprieto<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:179122:2" rendition="simple:additions"/>ſuch Tallies will be capable to pay their Debts, by receiving their own. The Bank receives its Debts, and pays their own; which will enable a great many more not only to do the like, but to Advance in Trade. This will enable the Bank, and others, to make freſh advances to the Crown, with this Aſſurance, That they ſhall not only be truely paid <hi>in ſpecie,</hi> in a little time; but neither they, nor the Nation will want the uſe of the Money in the mean time. Thus all the advances to the Crown will never leſſen Trade, becauſe it don't the Means: Which Means is Money and Credit; but if there be no Credit, and the King's occaſions calls for the Money, both the Hands of Trade are fettered, if not cut off.</p>
+               <p>
+                  <hi>Obj.</hi> Whether it be reaſonable for the Perſons that poſſeſs the Tallies <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> looſe their whole, or part of, Intereſt due.</p>
+               <p>
+                  <hi>Anſw.</hi> No Compulſion being laid for their bringing in their Tallies, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>akes every one Judge of his Intereſt in this matter. But ſince they know <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot how to convert them now to any uſe, without 20, 30, 40, and ſome <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 <hi>per Cent</hi> Loſs, none will think it hard, or very few, to have redreſs <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much to their advantage.</p>
+               <p>
+                  <hi>Obj.</hi> That if theſe Bills are made Current in all Payments, all the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ings Taxes and Revenues will be paid in ſuch.</p>
+               <p>
+                  <hi>Anſw.</hi> If the King had no Occaſion for Money abroad, it would ſerve his Occaſions as well; but as he hath, it is much likelier he ſhould be <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rved with Money for that uſe, when theſe Bills, the mean time, will <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pply his, and the Peoples wants at home. But further, when Bank <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Gold-Smiths Notes were Current (to the Value of more then theſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ills of Credit) and taken in Payment by all, had the King no Money <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Specie;</hi> or has he more now, when there is no Credit (as it were) <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urrent? The Exchequer can tell beſt. Nor is it poſſible the whole can be paid in ſuch Bills, ſince great part of the Taxes are paid in ſmall <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ms, and muſt be ſo. Neither is there any difference made by Men <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> buſineſs, whether they pay, or receive Money or Credit, provided <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth be Current and anſwer the end of Payment.</p>
+               <p>Some Monied Men may think it Injurious to them, becauſe it thwarts their Intereſt, but ſince the effect of their Money is to ſerve none but themſelves, at the Loſs of the Needy, nothing morc fit to be done, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an to make their Money uſeleſs, upon this Occaſion; for the leſs Credit there is, the more the Money is Valued; the more Credit, the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſs the Value of Money dayly Experience ſhews: And by this, in<g ref="char:EOLhyphen"/>stead of begging Monied Men to diſcount Tallies and Bills at too great Rate for the poor Tradeſmen to Live, the Monied Men will once gain Court the Landed Men, to take it at 4, 5, and 6. <hi>per Cent.</hi> when the neceſſity of Trade is anſwered.</p>
+               <p>Tho' this Credit, in few Years will be at an end, and every Year leſſened, yet it can't be doubted but common Credit will grow Propor<g ref="char:EOLhyphen"/>tionably, and at the end of one, the other will anſwer it: The Nation, in the mean time, being ſupported under two of the greateſt Difficul<g ref="char:EOLhyphen"/>ties it ever Laboured under, at the ſame time, <hi>viz.</hi> An expenſive War, and Recoyning of the Money.</p>
+               <p>That this Propoſal would advance Credit, I would Propoſe this for an Example, <hi>viz.</hi>
+               </p>
+               <p>If the Parliament were now making Progreſs in ſuch a Bill, and like to effect it, no Body will doubt but Tallies and Bank Notes would fall 10 or more <hi>per Cent</hi> before the Bill ſhould paſs; and when paſſed, 1. <hi>per Cent</hi> would command more then 10 now; which if true, 'tis beyond diſpute that Money and Credit would be nearly Reconciled, which is the thing wanting.</p>
+               <pb facs="tcp:179122:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
